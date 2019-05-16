@@ -2,3 +2,7 @@
   background: #fff;
 }
 
+.reveal.slide {
+  background: url(../images/logo-technocrat.png) 1% 90% no-repeat;
+  background-size: 240px 60px;
+}
